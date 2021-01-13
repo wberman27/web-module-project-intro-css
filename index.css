@@ -46,6 +46,51 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/* END OF RESET */
+
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+/* font-family: 'Chelsea Market', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+/* font-family: 'Roboto Mono', monospace; */
+
+.plan{
+    background:#FF764E;
+    font-family: 'Roboto Mono', monospace;
+}
+.learn{
+    background:#5ED3EB;
+    font-family: 'Roboto Mono', monospace;
+}
+.involved{
+    background:#FFCD69;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.headerImg{
+    display:inline-block;
+}
 .headerImg img{
     width:200px;
+}
+.footerImg img{
+    width:200px;
+}
+.main-header{
+    display:inline-block;
+}
+.main-header h2{
+    font-family: 'Roboto Mono', monospace;
+}
+.ypg{
+    font-family: 'Chelsea Market', cursive;
+}
+main{
+    background:#DDB9A3;
+    font-family: 'Roboto Mono', monospace;
+}
+.fireImg img{
+    width:100px;
+}
+.lodgingImg img{
+    width:100px;
 }
