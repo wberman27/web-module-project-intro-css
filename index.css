@@ -160,6 +160,7 @@ img{
 }
 .container{
     display:table;
+    padding-left:10%;
 }
 .container > *{
     display:table-cell;
@@ -184,7 +185,7 @@ img{
 }
 .ypg{
     font-family: 'Chelsea Market', cursive;
-    font-size:11rem;
+    font-size:900%;
     padding: 0 50rem 0 5%;
     width:100%;
     display:inline-block;
@@ -203,13 +204,13 @@ main{
     font-size:3rem;
 }
 .fireImg img{
-    width:100px;
+    width:50%;
 }
 .fireImg{
     text-align:center;
 }
 .lodgingImg img{
-    width:100px;
+    width:50%;
 }
 .lodgingImg{
     text-align:center;
@@ -229,12 +230,12 @@ h2{
     padding-left:2rem;
 }
 .always{
-    padding: 0 50% 0 10%;
+    padding: 0 30% 0 10%;
     text-align:center;
 }
 .fire{
-    padding:1rem 40% 2rem 40%;
+    padding:0 40% 2rem 40%;
 }
 .lodging{
-    padding:1rem 40% 2rem 40%;
+    padding:2% 40% 5% 40%;
 }
